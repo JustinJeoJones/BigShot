@@ -28,7 +28,7 @@
 
 .adBackground {
   background-image: url("https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/purple_money_rain.gif");
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: 100%;
 }
 
